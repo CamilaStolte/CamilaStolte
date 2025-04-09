@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Eu sou a Camila Stolte, desenvolvedora Full Stack e apaixonada por criar soluções digitais práticas e funcionais. Neste repositório, você vai encontrar projetos que mostram um pouco da minha experiência em desenvolvimento web, desde o front-end até o back-end, usando várias tecnologias e ferramentas que fazem parte do meu dia a dia e que eu gosto de explorar.
+Desenvolvedora Full Stack e apaixonada por criar soluções digitais práticas e funcionais. Neste repositório, você vai encontrar projetos que mostram um pouco da minha experiência em desenvolvimento web, desde o front-end até o back-end, usando várias tecnologias e ferramentas que fazem parte do meu dia a dia e que eu gosto de explorar.
 
 <p align="left">
     <a href="https://github.com/CamilaStolte?tab=repositories&sort=stargazers">
